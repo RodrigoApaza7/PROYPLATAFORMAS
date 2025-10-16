@@ -73,7 +73,7 @@ ul li::before {
   margin-bottom: 5px;
 }
 
-/* ✅ Diseño adaptable para pantallas pequeñas */
+/* Diseño adaptable para pantallas pequeñas */
 @media (max-width: 600px) {
   .perfil {
     flex-direction: column;
