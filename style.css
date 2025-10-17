@@ -43,8 +43,8 @@ a:active {
 .perfil {
   display: flex;
   flex-wrap: wrap;
-  gap: 50px;
-  margin-bottom: 50px;
+  gap: 80px;
+  margin-bottom: 80px;
 }
 
 .foto {
