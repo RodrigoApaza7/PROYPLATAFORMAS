@@ -60,16 +60,16 @@ ul {
 
 ul li::before {
   content: "• ";
-  color: #bbb;
+  color: #fff;
 }
 
 .seccion {
-  color: #bbb;
+  color: #fff;
   margin-top: 15px;
 }
 
 .subseccion {
-  color: #bbb;
+  color: #fff;
   margin-left: 20px;
 }
 
