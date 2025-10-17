@@ -21,7 +21,7 @@ h2 {
 
 /* Enlaces */
 a {
-  color: #00bfff; /* celeste brillante (sky blue) */
+  color: #ffffff; /* celeste brillante (sky blue) */
   text-decoration: none; /* sin subrayado */
   font-weight: bold;
 }
@@ -32,11 +32,11 @@ a:hover {
 }
 
 a:visited {
-  color: #1e90ff; /* azul más claro para los visitados */
+  color: #ff0000; /* azul más claro para los visitados */
 }
 
 a:active {
-  color: red; /* rojo suave al hacer clic */
+  color: lab(51.76% 79.18 32.11); /* rojo suave al hacer clic */
 }
 
 
