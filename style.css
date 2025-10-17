@@ -98,6 +98,26 @@ ul li::before {
   margin-bottom: 5px;
 }
 
+/* Cambia el fondo y color del botón del acordeón */
+#accordionExample .accordion-button {
+    background-color: #001f3f; /* azul oscuro */
+    color: gold;
+    font-weight: bold;
+}
+
+/* Cuando se pasa el cursor por encima */
+#accordionExample .accordion-button:hover {
+    background-color: gold;
+    color: #001f3f;
+}
+
+/* Cambia el cuerpo del acordeón */
+#accordionExample .accordion-body {
+    background-color: #0a1931;
+    color: white;
+    font-size: 15px;
+}
+
 /* Diseño adaptable para pantallas pequeñas */
 @media (max-width: 600px) {
   .perfil {
