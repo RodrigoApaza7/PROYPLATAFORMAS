@@ -19,6 +19,27 @@ h2 {
   color: #fff; /* texto blanco para resaltar */
 }
 
+/* Enlaces */
+a {
+  color: #00bfff; /* celeste brillante (sky blue) */
+  text-decoration: none; /* sin subrayado */
+  font-weight: bold;
+}
+
+a:hover {
+  color: #ffd700; /* dorado al pasar el mouse */
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #1e90ff; /* azul más claro para los visitados */
+}
+
+a:active {
+  color: #ff6347; /* rojo suave al hacer clic */
+}
+
+
 .perfil {
   display: flex;
   flex-wrap: wrap;
