@@ -64,10 +64,12 @@ ul li::before {
 }
 
 .seccion {
+  color: #bbb;
   margin-top: 15px;
 }
 
 .subseccion {
+  color: #bbb;
   margin-left: 20px;
 }
 
