@@ -1,9 +1,10 @@
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #ffffff; /* azul oscuro */
+html, body {
+  height: 100%;
   margin: 0;
-  padding: 20px;
+  padding: 0;
+  background-color: #ffffff; /* blanco puro */
 }
+
 
 .contenedor {
   background-color: #004080; /* azul más claro y visible */
