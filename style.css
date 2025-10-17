@@ -32,7 +32,7 @@ a:hover {
 }
 
 a:visited {
-  color: #ff0000; /* azul más claro para los visitados */
+  color: #f6ff00; /* azul más claro para los visitados */
 }
 
 a:active {
