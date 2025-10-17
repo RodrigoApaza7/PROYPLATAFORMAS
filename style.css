@@ -100,7 +100,7 @@ ul li::before {
 
 /* Cambia el fondo y color del botón del acordeón */
 #accordionExample .accordion-button {
-    background-color: #001f3f; /* azul oscuro */
+    background-color: #00EFEF; /* azul oscuro */
     color: gold;
     font-weight: bold;
 }
